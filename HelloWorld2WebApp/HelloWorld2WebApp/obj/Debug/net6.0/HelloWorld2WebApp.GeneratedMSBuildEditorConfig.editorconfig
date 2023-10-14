@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\ASP.NET Core MVC\HelloWorld2\HelloWorld2WebApp\HelloWorld2WebApp
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/ASP.NET Core MVC/HelloWorld2/HelloWorld2WebApp/HelloWorld2WebApp/Views/Customer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/ASP.NET Core MVC/HelloWorld2/HelloWorld2WebApp/HelloWorld2WebApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
